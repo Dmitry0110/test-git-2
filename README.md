@@ -1,9 +1,9 @@
 1. git status
-2. git add [files] добавляет файлы в stage
-3. git commit -m "comment" - запись
+2. git add [files] добавляет файлы в stage (обязательная команда)
+3. git commit -m "comment" - запись (обязательная команда)
 4. git log
 5. git log --oneline (показывает краткую информацию)
-6. git push [rep_link] [branch_name]  - отправить изменения на удаленный репозиторий
+6. git push [rep_link] [branch_name]  - отправить изменения на удаленный репозиторий (обязательная команда)
 (git push origin master)
 7. git remote -v - просмотреть ссылку на репозиторий
 8. git branch - просмотреть ветку
@@ -13,5 +13,5 @@
 12. git checkout (название ветки) - команда переключения между веток
 13. git pull - забирает изменения из ветки github идобавляет их в локальную ветку , которая на компе
 14. git branch -d (название ветки) - удаляет ветки с компа
-14. git merge -
+14. git merge - перенос кода из одной ветки в текущую
 feature/main-page
